@@ -1,7 +1,7 @@
 # 📊 Northwind Traders Excel Dashboard – Business Insights Project
 
 ### Overview
-This project uses the fictional Northwind Traders dataset, which can be accessed through [Maven Analytics] (https://app.mavenanalytics.io/datasets?search=north), to replicate business analysis in the real world. It aims at developing a detailed Excel dashboard to provide practical information on some of the major business operations like sales, customer behavior, product performance, employee productivity, and shipping logistics.
+This project uses the fictional Northwind Traders dataset, which can be accessed through [Maven Analytics](https://app.mavenanalytics.io/datasets?search=north), to replicate business analysis in the real world. It aims at developing a detailed Excel dashboard to provide practical information on some of the major business operations like sales, customer behavior, product performance, employee productivity, and shipping logistics.
 
 ### 📌 Motivation
 In a global trading environment, businesses rely on real-time insights to track sales performance, understand customer behavior, monitor logistics, and evaluate internal productivity. I wanted to simulate this real-world scenario and sharpen my analytical and dashboarding skills by working with the fictional Northwind dataset, which provides a comprehensive model of a trading business.
