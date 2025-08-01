@@ -67,7 +67,7 @@ I grouped the KPIs by business function and used PivotTables to develop the anal
     - Orders per Shipper
     - Average Shipping Cost per Shipper
 
- ### 📊 Dashboard Features
+ ### 📊 Dashboard Features (Excel Version)
 The final dashboard includes a mix of:
 - Line, bar, column, and pie charts
 - Timeline filters and slicers for:
@@ -75,5 +75,11 @@ The final dashboard includes a mix of:
     - Time Period
     - Customer
     - Employee
+ 
+ ### 📊 Dashboard Features (Power BI)
+I built another version of the dashboard using Power BI which allowed more customizations and user-friendliness:
+- The dashboard is fully interactive 
+- the dashboard uses several drill downs allowing stakeholders to investigate different levels of analysis
+- It also uses an integrated map which is used to visually distinguish areas of presence for the company 
 
 The dashboard is fully interactive, allowing stakeholders to explore and drill down into various dimensions of the business.
